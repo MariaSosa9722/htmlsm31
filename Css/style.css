@@ -1,0 +1,38 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    
+} 
+
+* h1, p {
+    text-align: center;
+}
+
+ .TopNav{
+    float: right;
+    width: 35%;
+   
+   }
+  
+   .TopNav ul{
+      list-style: none;
+   }
+  
+   .TopNav ul li {
+      display: inline-block;
+      padding: 3%;
+   }
+   .TopNav ul li a:hover {
+      color: beige;
+      border-bottom: beige 2px solid;
+      padding-bottom: 5px;
+  
+  
+   }
+  
+  header{
+      background: rgb(1, 202, 248);
+      width: 100%;
+      position:  absolute;
+  
+  }
+
